@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "camera",
+      "category": "Elsectronics",
+      "freshness": "Brand New",
+      "price": 10000,
+      "comment": "Sony",
+      "date": "2022-12-03T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "wwatch",
+      "category": "Elsectronics",
+      "freshness": "Brand New",
+      "price": 21,
+      "comment": "12",
+      "date": "2022-12-25T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "1",
+      "category": "Elsectronics",
+      "freshness": "Brand New",
+      "price": 111111,
+      "comment": "1",
+      "date": "2000-12-31T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
